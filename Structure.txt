@@ -1,0 +1,15 @@
+Root
+    Header
+    (Container)
+        Search - SearchContainer
+        PorductList - ProductListContainer
+            Product
+            Product
+            Product
+        Message - MessageContainer
+        CartList - CartListContainer
+            Cart
+            Cart
+            Cart
+            CartResult
+    Footer
